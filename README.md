@@ -1,2 +1,2 @@
-# The Odinproject - Google Homepage
+# The Odinproject - Google Homepage Project
 # https://github.com/k4koffi/google-homepage.git
